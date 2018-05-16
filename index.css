@@ -1,0 +1,17 @@
+body{
+  background-image: url("./sources/background_preview.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment:  fixed;
+}
+p{
+  text-align: center;
+}
+.navbar{
+  margin: auto;
+}
+.commentaire .image {
+  height: 50px;
+  border-radius: 50px;
+}
